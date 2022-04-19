@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ayah_mid2</string>
+    <string name="name">Name:</string>
+    <string name="surname">Surname:</string>
+    <string name="nationalid">National ID</string>
+    <string name="bttninsert">INSERT</string>
+    <string name="bttnSecondAct">Go To Second Activity</string>
+    <string name="bttnThirdAct">Go To Third Activity</string>
+    <string name="user_id">ID:</string>
+    <string name="search">search</string>
+    <string name="go_to_activity_1">Go To Activity 1</string>
+    <string name="welcome_to_midterm_2_of_ayah_201263">Welcome To Midterm 2 of Ayah, 201263</string>
+    <string name="delete">Delete</string>
+    <string name="view_table_from_database">View Table from database</string>
+    <string name="go_to_activity1">Go to Activity1</string>
+</resources>
